@@ -84,6 +84,7 @@ celerybeat-schedule
 env/
 venv/
 ENV/
+env_drf_learn/
 
 # Spyder project settings
 .spyderproject
