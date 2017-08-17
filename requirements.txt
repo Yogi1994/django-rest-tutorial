@@ -5,7 +5,13 @@ coreschema==0.0.4
 Django==1.11.4
 django-filter==1.0.4
 djangorestframework==3.6.3
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 httpie==0.9.9
+>>>>>>> fdecf6e... added requirement.txt
+=======
+>>>>>>> a539c7c... remove useless requirement
 idna==2.5
 itypes==1.1.0
 Jinja2==2.9.6
